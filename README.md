@@ -17,8 +17,6 @@
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -29,7 +27,7 @@
 ### Built With
 
 - HTML, CSS, and JavaScript
-- [WeatherAPI](https://weatherapi.com) - Used to retrieve weather data
+- [WeatherAPI](https://rapidapi.com/weatherapi/api/weatherapi-com) - Used to retrieve weather data
 
 ---
 
@@ -40,7 +38,7 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 - You need a code editor (e.g., Visual Studio Code, Sublime Text).
-- An API key from [WeatherAPI](https://weatherapi.com) (follow their documentation to obtain one).
+- An API key from [WeatherAPI](https://rapidapi.com/weatherapi/api/weatherapi-com) (follow their documentation to obtain one).
 
 ### Installation
 
