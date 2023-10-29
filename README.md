@@ -61,7 +61,13 @@ In summary, weather apps offer convenience, safety, and practical benefits for a
 
 ### Personas, Scenarios, User Stories and Feature List
 
+#### Feature List:
 
+1. Location-Based Forecast: Automatically detect the user's location and provide weather information for that area. Allow users to search for other locations as well.
+2. Push Notifications: Send push notifications for daily weather updates or severe weather alerts.
+3. Language Support: Offer the app in multiple languages to cater to a global audience.
+4. Weather History: Maintain a history of previously searched locations and weather data for easy reference.
+5. Offline Access: Provide offline access to cached weather data for users in areas with limited or no internet connectivity.
 
 ## Getting Started
 
