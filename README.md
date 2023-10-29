@@ -59,6 +59,8 @@ A weather app is useful for a variety of reasons, as it provides real-time and f
 
 In summary, weather apps offer convenience, safety, and practical benefits for a wide range of users, whether you're planning your day, making long-term decisions, or just staying informed about the weather in your area or around the world.
 
+### Personas, Scenarios, User Stories and Feature List
+
 
 
 ## Getting Started
