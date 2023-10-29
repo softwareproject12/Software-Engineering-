@@ -60,6 +60,19 @@ A weather app is useful for a variety of reasons, as it provides real-time and f
 In summary, weather apps offer convenience, safety, and practical benefits for a wide range of users, whether you're planning your day, making long-term decisions, or just staying informed about the weather in your area or around the world.
 
 ### Personas, Scenarios, User Stories and Feature List
+#### Personas, Scenarios, and User Stories Example - Mark
+The Daily Planner: Mark
+
+Persona: Introducing Mark, the Daily Planner. Mark relies on the weather app every morning to plan the day ahead. He appreciates a comprehensive daily forecast, including hour-by-hour breakdowns, to make decisions about outfit choices, activities, and whether to grab an umbrella on the way out.
+
+The Daily Planner - Mark's Commute Dilemma:
+
+Scenario: Mark, a meticulous planner, is getting ready for work in the morning. He opens his weather app to check the hourly forecast. Seeing a chance of rain in the afternoon, Mark decides to bring his umbrella and wear a waterproof jacket. This small adjustment, informed by the weather app, ensures a dry and comfortable commute, saving him from unexpected rain showers.
+
+The Daily Planner - Mark's Commute Preparations:
+
+User Story:
+Mark, a daily commuter, wants to use the weather app to efficiently plan his daily commute. He needs hourly forecasts and real-time updates on weather conditions to make informed decisions about clothing and accessories. Mark expects the app to be user-friendly, allowing him to check the forecast quickly each morning.
 
 #### Feature List:
 
