@@ -22,7 +22,7 @@
 
 ## About the Project
 
-[Project Name] is a web application designed to provide users with up-to-date weather information for cities around the world. It leverages the WeatherAPI to fetch weather data and offers a user-friendly interface for searching and displaying weather forecasts. The project aims to make it easy for users to access weather forecasts for their desired locations.
+[Project Name] is a web application designed to provide users with up-to-date weather information for cities around the world. It leverages the WeatherAPI to fetch weather data and offers a user-friendly interface for searching and displaying weather forecasts. The project aims to make it easy for users to access weather forecasts for their desired locations. Our weather website aims to become the go-to destination for users seeking accurate, reliable, and personalized weather information. We envision a platform that not only provides up-to-the-minute weather forecasts but also offers a seamless and engaging user experience. Our goal is to empower individuals and businesses to make informed decisions based on weather data, ultimately enhancing safety, planning, and enjoyment in their daily lives.
 
 ### Built With
 
