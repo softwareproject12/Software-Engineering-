@@ -1,7 +1,7 @@
 
 # Weather Forecast Website
 
-![Project Image](project-image-url)
+![Project Image](https://github.com/softwareproject12/Software-Engineering-/blob/main/PictureProject.png)
 
 > A simple and user-friendly weather forecast website that allows users to search for a city and get weather information for the week.
 
