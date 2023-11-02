@@ -96,6 +96,9 @@ Mark, a daily commuter, wants to use the weather app to efficiently plan his dai
 
 10. **Accessibility Features:** Ensure the app is accessible to all users, including those with disabilities, by providing appropriate accessibility features.
 
+## Contributors
+### Name - Github Username
+#### Olufunbi Williams - Funbi12
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
