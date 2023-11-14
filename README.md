@@ -98,7 +98,7 @@ Mark, a daily commuter, wants to use the weather app to efficiently plan his dai
 
 ## Contributors
 ### Name - Github Username
-#### Olufunbi Williams - Funbi12
+#### Olufunbi Williams - OlufunbiWilliams
 #### Vintavious Gilbert - VintaviousG
 #### Khalil Floyd - KhalilFloyd
 ## Getting Started
