@@ -100,6 +100,7 @@ Mark, a daily commuter, wants to use the weather app to efficiently plan his dai
 ### Name - Github Username
 #### Olufunbi Williams - Funbi12
 #### Vintavious Gilbert - VintaviousG
+#### Khalil Floyd - KhalilFloyd
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
